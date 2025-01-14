@@ -22,4 +22,5 @@ Add-Ins excel yang digunakan untuk merubah nominal (angka) menjadi terbilang (ka
 7. maka hasilnya akan menjadi <i><b>"Tujuh Ratus Lima Puluh Ribu"</i></b>.
 8. untuk menambah kata <i><b>"rupiah"</i></b> di akhir kalimat, maka formula akan menjadi <b>=proper(NumberWords(A3)&" rupiah")</b>.
 9. maka akan menghasilkan keluaran <i><b>"Tujuh Ratus Lima Puluh Ribu Rupiah"</i></b>.
-
+## link video tutorial
+https://youtu.be/0BY31zl9LE0?si=G4t1EJDeKql1IftE
