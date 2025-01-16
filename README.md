@@ -12,6 +12,16 @@ Add-Ins excel yang digunakan untuk merubah nominal (angka) menjadi terbilang (ka
 6. maka akan tampil Add-Ins baru bernama Number_To_Words
 7. pastikan Add-Ins ini telah tercentang agar Add-Ins ini aktif.
 8. Add-Ins pun siap digunakan.
+9. Jika add-ins tidak berjalan secara otomatis setelah Excel di tutup dan di buka kembali(biasanya di versi Excel 2013 ke atas), maka lakukan langkah-langkah berikut:
+   ### cara menjalankan Add-Ins secara otomatis
+   a. Buka Windows File Explorer dan masuk ke folder tempat file number_to_words.xlam disimpan<br>
+   b. Klik kanan file number_to_words.xlam dan pilih Properti<br>
+   c. Di bagian bawah tab General (Umum), pilih kotak centang Unblock (Buka blokir)<br>
+   d. Klik OK<br>
+   e. Buka Excel<br>
+   f. Klik menu Developer, lalu klik Add_Ins<br>
+   g. Hapus centang salah satu Add-Ins, lalu klik OK<br>
+   h. Mulai ulang Excel
 ## cara penggunaan
 1. buka file excel yang diinginkan, atau bisa juga membuka file excel baru.
 2. masukkan sembarang angka pada suatu cell, misal 750000 pada cell A3.
